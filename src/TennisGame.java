@@ -1,5 +1,3 @@
-package TennisGame;
-
 public class TennisGame {
 
     private static final int SCORE_LOVE = 0;
